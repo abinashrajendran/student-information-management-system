@@ -1,0 +1,6 @@
+{
+  "name": "Student Information Management System (SIMS)",
+  "description": "Full-stack Student Information Management System built with Express and React 19 by Abinash R, Department of CSE (AI & ML).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
